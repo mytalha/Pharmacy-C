@@ -1,0 +1,6 @@
+Drug ID 	 Medicine Name		 Price 
+01		  Mytika		50   PKR			
+02		  Ventoline		1000 PKR
+03		  Quibrine Tsr		200  PKR
+04		  Betnisole		25   PKR
+05		  Discole 		40   PKR
